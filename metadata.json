@@ -1,0 +1,6 @@
+{
+  "name": "EchoScribe - Video & Audio AI Transcriber",
+  "description": "High-accuracy AI audio and video transcription with timestamped synchronized playback, speaker diarization, auto-summary, chapter markers, and export to SRT/VTT/TXT.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
